@@ -10,7 +10,7 @@
 
 <div align="center">
     
-🔭 I'm currently pursuing a master's degree in computer science.
+🔭 I'm currently pursuing a master's degree in computer science
 
 🌱 I’m currently learning **TypeScript, React, NodeJS**
 
@@ -29,3 +29,11 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
 </div>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
+
+
