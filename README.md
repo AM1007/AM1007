@@ -4,7 +4,7 @@
     <img alt="main slogan" src="https://readme-typing-svg.herokuapp.com/?font=Ysabeau+SC&weight=500&size=24&duration=8000&pause=5000&color=48E36B&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=+Welcome+to+my+repository!;+" />
 </h1>
 
-<h3 align="center">👋 Hi! I`m Andrew - a Ukraine-Based Software Enthusiast</h3>
+<h3 align="center">👋 Hi! I`m Andrew - a Ukraine-based software enthusiast</h3>
 
 <br/>
 
