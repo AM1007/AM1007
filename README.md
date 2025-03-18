@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
     
 🎓 Currently pursuing a Master’s in Computer Science.
 
