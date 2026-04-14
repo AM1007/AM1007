@@ -1,22 +1,42 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AM1007.AM1007" />
+# Andrew Motko
 
+Full-Stack Developer (React / Next.js)
 
+I build and ship production-ready web applications independently.
 
-<h3 align="center">👋 Hi! I`m Andrew - a Ukraine-based software enthusiast</h3>
+## 🚀 Projects
 
-<br/>
+### DevLovers
+Production platform (team project)
+👉 https://devlovers.net
 
-<div align="center">
-    
-🎓 Currently pursuing a Master’s in Computer Science.
+- AI-assisted development workflows
+- Product structure and feature contributions
 
-🌱 Exploring TypeScript, React, and Node.js to build scalable web applications.
+---
 
-🛠️ Passionate about bridging the gap between technical writing and software development.
+### Configurator App
+👉 https://sti-buildit-configurator.vercel.app
 
-⚡ Fun fact **Oysters don't donate to charity because they are shellfish!**
+- Custom UI logic
+- End-to-end development
+- Actively evolving toward production
 
-</div>
+---
+
+### Avisat Website
+👉 https://avisat.com.ua
+
+- Full-cycle development (UI/UX → deployment)
+
+---
+
+## 🧠 Focus
+- Frontend (React / Next.js)
+- Workflow automation (n8n, Make)
+- AI-assisted development
+
+## 📫 Contact
 
 <div align="center"> 
   <a href="mailto:pedro.amdrew.motko@gmail.com">
@@ -25,9 +45,7 @@
   <a href="https://www.linkedin.com/in/motko/" target="_blank">
     <img alt="linkedIn logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!--<a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a> -->
+
 </div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
