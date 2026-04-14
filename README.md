@@ -23,7 +23,7 @@ Background in technical writing → clean architecture, clear logic, zero chaos.
 
 ### DevLovers  
 Production platform (team project)  
-👉 https://devlovers.net  
+👉 https://devlovers.net
 👉 https://github.com/DevLoversTeam/devlovers.net  
 
 Turned chaotic feature ideas into structured product decisions.
