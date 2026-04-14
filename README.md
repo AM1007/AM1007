@@ -111,5 +111,5 @@ Let’s build something that actually ships.
 ## 🧩 Languages / Frameworks / Tools
 
 <div align="center">
-    <img alt="tools icons" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+    <img alt="tools icons" src="https://skillicons.dev/icons?i=mongodb,sql,express,react,nodejs" />
 </div>
