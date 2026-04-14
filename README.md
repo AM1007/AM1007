@@ -38,7 +38,7 @@ Turned chaotic feature ideas into structured product decisions.
 👉 https://sti-buildit-configurator.vercel.app  
 👉 https://github.com/AM1007/sti-buildit-configurator  
 
-Complex product logic turned into a UI that doesn’t let users make mistakes.
+Turns complex product logic into a simple UI that prevents user errors
 
 - Built end-to-end (UI/UX → frontend → deployment)  
 - Designed system that validates constraints in real time  
@@ -94,6 +94,8 @@ n8n, Make, API integrations
 
 ## 📫 Contact
 
+Open to new opportunities  
+
 Let’s build something that actually ships.
 
 <div align="center"> 
@@ -103,12 +105,4 @@ Let’s build something that actually ships.
   <a href="https://www.linkedin.com/in/motko/" target="_blank">
     <img alt="linkedIn logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</div>
-
----
-
-## 🧩 Languages / Frameworks / Tools
-
-<div align="center">
-    <img alt="tools icons" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </div>
