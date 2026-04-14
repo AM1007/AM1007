@@ -8,8 +8,7 @@ Full-Stack Developer (React / Next.js)
 
 ## ⚡ What I actually do
 
-Most developers write code.  
-I build systems that people can understand, use, and scale.
+I build systems that are not only functional, but easy to understand, use, and scale.
 
 - Turn unclear ideas into structured, working products  
 - Build interfaces that prevent user mistakes  
