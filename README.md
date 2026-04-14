@@ -1,6 +1,6 @@
 # Andrew Motko
 
-I turn messy ideas into production-ready web apps — fast.
+I turn messy ideas into production-ready web apps – fast.
 
 Full-Stack Developer (React / Next.js)
 
