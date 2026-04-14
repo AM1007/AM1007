@@ -35,7 +35,7 @@ Turned chaotic feature ideas into structured product decisions.
 ---
 
 ### Configurator App  
-👉 https://sti-buildit-configurator.vercel.app  
+👉 https://sti.fortisec.com.ua
 👉 https://github.com/AM1007/sti-buildit-configurator  
 
 Turns complex product logic into a simple UI that prevents user errors
