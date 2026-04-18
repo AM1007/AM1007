@@ -73,7 +73,7 @@ Corporate site that actually explains what the company does.
 React / Next.js, JavaScript / TypeScript  
 
 **Backend**  
-Node.js (basic), REST API  
+Node.js, REST API  
 
 **Data**  
 MongoDB / SQL  
