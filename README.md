@@ -1,49 +1,46 @@
 # Andrew Motko
 
-I turn messy ideas into production-ready web apps – fast.
-
 Full-Stack Developer (React / Next.js)
+
+I build web applications end-to-end — from idea to deployment.
 
 ---
 
-## ⚡ What I actually do
+## ⚡ What I do
 
-I build systems that are not only functional, but easy to understand, use, and scale.
+- Build full-stack applications using React / Next.js and Node.js  
+- Design clear user flows and intuitive interfaces  
+- Deliver features from idea to production  
+- Use AI tools to speed up development (not replace understanding)
 
-- Turn unclear ideas into structured, working products  
-- Build interfaces that prevent user mistakes  
-- Ship fast without breaking maintainability  
-- Replace repetitive coding with AI-assisted workflows  
-
-Background in technical writing → clean architecture, clear logic, zero chaos.
+Background in technical writing → helps me keep code and logic clean and structured.
 
 ---
 
 ## 🚀 Projects
 
-### DevLovers  
-Production platform (team project)  
-👉 https://devlovers.net
-👉 https://github.com/DevLoversTeam/devlovers.net  
+### Configurator App  
+👉 https://sti.fortisec.com.ua  
+👉 https://github.com/AM1007/sti-buildit-configurator  
 
-Turned chaotic feature ideas into structured product decisions.
+Full-stack app for configuring security equipment.
 
-- Helped shape product structure and feature direction  
-- Introduced AI-assisted workflows → faster iteration  
-- Enabled team to actually use AI in real development, not just talk about it  
+- Built end-to-end (UI/UX → frontend → logic → deployment)  
+- Implemented dynamic logic where user choices affect available options  
+- Added real-time validation to reduce configuration errors  
+- Automated generation of product model IDs  
 
 ---
 
-### Configurator App  
-👉 https://sti.fortisec.com.ua
-👉 https://github.com/AM1007/sti-buildit-configurator  
+### DevLovers  
+👉 https://devlovers.net  
+👉 https://github.com/DevLoversTeam/devlovers.net  
 
-Turns complex product logic into a simple UI that prevents user errors
+Production platform (team project)
 
-- Built end-to-end (UI/UX → frontend → deployment)  
-- Designed system that validates constraints in real time  
-- Generates Product Model IDs automatically  
-- Reduces errors for sales engineers and distributors  
+- Contributed to feature development in a team environment  
+- Helped structure features and improve product clarity  
+- Introduced AI-assisted workflows to speed up iteration  
 
 ---
 
@@ -51,19 +48,20 @@ Turns complex product logic into a simple UI that prevents user errors
 👉 https://avisat.com.ua  
 👉 https://github.com/AM1007/avisat-frontend  
 
-Corporate site that actually explains what the company does.
+Corporate website built independently.
 
-- Built full website independently  
-- Structured content for clarity (not typical “corporate noise”)  
-- Focused on usability and real user understanding  
+- Developed full website from scratch  
+- Structured content for clarity and usability  
+- Focused on clear communication of product and services  
 
 ---
 
-## 🧠 What I focus on
+## 🧠 Focus
 
-- Production-ready frontend (React / Next.js)  
-- Workflow automation (n8n, Make, API integrations)  
-- AI-assisted development (faster builds, fewer repetitive tasks)  
+- React / Next.js applications  
+- Full-stack development (Node.js, APIs)  
+- Workflow automation (n8n, Make)  
+- Practical use of AI in development  
 
 ---
 
@@ -85,10 +83,10 @@ n8n, Make, API integrations
 
 ## ⚙️ How I work
 
-- Think in systems, not pages  
-- Prioritize clarity over cleverness  
-- Build fast, but not fragile  
-- Document decisions (so projects don’t die after handoff)  
+- Think in systems, not just pages  
+- Focus on clarity and maintainability  
+- Break down complex problems into simple solutions  
+- Ship working solutions, not just code  
 
 ---
 
@@ -96,13 +94,13 @@ n8n, Make, API integrations
 
 Open to new opportunities  
 
-Let’s build something that actually ships.
+Let’s build something useful.
 
 <div align="center"> 
   <a href="mailto:pedro.amdrew.motko@gmail.com">
     <img alt="gmail logo" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/motko/" target="_blank">
-    <img alt="linkedIn logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img alt="linkedIn logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
