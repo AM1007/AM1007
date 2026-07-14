@@ -1,100 +1,79 @@
 # Andrew Motko
 
-Full-Stack Developer (React / Next.js)
+**Full-Stack Developer | React · Next.js · Node.js**
 
-I build web applications end-to-end — from idea to deployment.
+I build web applications that turn business requirements into working products.
 
----
-
-## ⚡ What I do
-
-- Build full-stack applications using React / Next.js and Node.js  
-- Design clear user flows and intuitive interfaces  
-- Deliver features from idea to production  
-- Use AI tools to speed up development (not replace understanding)
-
-Background in technical writing → helps me keep code and logic clean and structured.
+My focus: clear interfaces, reliable logic, maintainable code, and measurable business value.
 
 ---
 
-## 🚀 Projects
+## What I Deliver
 
-### Configurator App  
-👉 https://sti.fortisec.com.ua  
-👉 https://github.com/AM1007/sti-buildit-configurator  
-
-Full-stack app for configuring security equipment.
-
-- Built end-to-end (UI/UX → frontend → logic → deployment)  
-- Implemented dynamic logic where user choices affect available options  
-- Added real-time validation to reduce configuration errors  
-- Automated generation of product model IDs  
+- Web applications from concept to deployment
+- Clear user flows that reduce friction and mistakes
+- Frontend systems built with React and Next.js
+- Backend functionality and REST API integrations
+- Workflow automation for repetitive business processes
+- Fast prototyping without sacrificing maintainability
 
 ---
 
-### DevLovers  
-👉 https://devlovers.net  
-👉 https://github.com/DevLoversTeam/devlovers.net  
+## How I Create Value
 
-Production platform (team project)
+**For companies**  
+I turn requirements into software that can be shipped, maintained, and extended.
 
-- Contributed to feature development in a team environment  
-- Helped structure features and improve product clarity  
-- Introduced AI-assisted workflows to speed up iteration  
+**For clients**  
+I reduce technical complexity and keep communication clear throughout development.
 
----
+**For product teams**  
+I connect user needs, business logic, and implementation.
 
-### Avisat Website  
-👉 https://avisat.com.ua  
-👉 https://github.com/AM1007/avisat-frontend  
-
-Corporate website built independently.
-
-- Developed full website from scratch  
-- Structured content for clarity and usability  
-- Focused on clear communication of product and services  
+**For early-stage products**  
+I help validate ideas quickly before significant resources are committed.
 
 ---
 
-## 🧠 Focus
-
-- React / Next.js applications  
-- Full-stack development (Node.js, APIs)  
-- Workflow automation (n8n, Make)  
-- Practical use of AI in development  
-
----
-
-## 🛠 Tech Stack
+## Technology
 
 **Frontend**  
-React / Next.js, JavaScript / TypeScript  
+React · Next.js · TypeScript · JavaScript · Redux Toolkit · HTML · CSS
 
 **Backend**  
-Node.js, REST API  
+Node.js · REST APIs
 
 **Data**  
-MongoDB / SQL  
+PostgreSQL · MongoDB
 
-**Automation**  
-n8n, Make, API integrations  
-
----
-
-## ⚙️ How I work
-
-- Think in systems, not just pages  
-- Focus on clarity and maintainability  
-- Break down complex problems into simple solutions  
-- Ship working solutions, not just code  
+**Automation and Tools**  
+Git · Vite · Postman · n8n · Make · API integrations
 
 ---
 
-## 📫 Contact
+## Working Principles
 
-Open to new opportunities  
+- Understand the problem before writing code
+- Prefer simple systems over unnecessary complexity
+- Make decisions visible and explainable
+- Validate assumptions before scaling
+- Build for the next developer, not only for the current release
+- Use AI to accelerate execution, never to replace verification
 
-Let’s build something useful.
+---
+
+## Current Focus
+
+- Full-stack product development
+- Frontend architecture
+- TypeScript
+- Backend engineering
+- Workflow automation
+- AI-assisted development
+
+---
+
+## Contact
 
 <div align="center"> 
   <a href="mailto:pedro.amdrew.motko@gmail.com">
