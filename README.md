@@ -13,9 +13,8 @@ My focus: clear interfaces, reliable logic, maintainable code, and measurable bu
 - Web applications from concept to deployment
 - Clear user flows that reduce friction and mistakes
 - Frontend systems built with React and Next.js
-- Backend functionality and REST API integrations
 - Workflow automation for repetitive business processes
-- Fast prototyping without sacrificing maintainability
+- Rapid prototyping with a clear path to production
 
 ---
 
@@ -44,10 +43,10 @@ React · Next.js · TypeScript · JavaScript · Redux Toolkit · HTML · CSS
 Node.js · REST APIs
 
 **Data**  
-PostgreSQL · MongoDB
+PostgreSQL · SQL
 
 **Automation and Tools**  
-Git · Vite · Postman · n8n · Make · API integrations
+Git · Vite · Postman · n8n · API integrations
 
 ---
 
@@ -67,7 +66,6 @@ Git · Vite · Postman · n8n · Make · API integrations
 - Full-stack product development
 - Frontend architecture
 - TypeScript
-- Backend engineering
 - Workflow automation
 - AI-assisted development
 
@@ -76,7 +74,7 @@ Git · Vite · Postman · n8n · Make · API integrations
 ## Contact
 
 <div align="center"> 
-  <a href="mailto:pedro.amdrew.motko@gmail.com">
+  <a href="mailto:andrew.motko@gmail.com">
     <img alt="gmail logo" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/motko/" target="_blank">
